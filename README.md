@@ -1,6 +1,6 @@
 # First-demo
 This is my first git repository<
 <br>
-author - Om deshmukh
+author - OM PRAMOD DESHMUKH
 
 
